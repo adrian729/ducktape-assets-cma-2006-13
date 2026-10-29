@@ -1,0 +1,53 @@
+# descriptive: find it and understand it
+id: ape-with-fishing-rod
+title: Crouching ape holding a fishing rod
+description: A brown ape with gold-hatched fur crouches on its haunches facing right, its tail curling behind, and holds a long thin fishing rod in both hands; the rod rises to a peak above and the line bends down to the right. Round ear, dark eye and a long muzzle. The paint is worn, with pale parchment showing through the fur. Cut from the pond miniature of the leaf; the background is transparent.
+type: illustration
+categories:
+  - animals
+  - fantasy
+subjects:
+  - ape
+  - rod
+  - drollery
+colors:
+  - brown
+  - tan
+  - gold
+facing: right
+view: side
+composition: single-figure
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+related:
+  - asset: cma-2006-13/ape-fishing-pond-scene
+    role: variant
+  - asset: cma-2006-13/diving-long-beaked-waterbird
+    role: companion
+usage_notes:
+  - The ape of hairy-hunter-and-diving-bird-pond-scene; the line of the rod ends in the air, so point it at water or at diving-long-beaked-waterbird as on the leaf.
+display_width:
+  - 200
+  - 700
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Original paint loss, with pale parchment showing through the fur and along the rod.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Book of Hours: Ape Fishing (verso)"
+  object_identifier: 2006.13.b
+  date: c. 1500–1510
+  record_url: https://clevelandart.org/art/2006.13.b
+  image_url: https://openaccess-cdn.clevelandart.org/2006.13.b/2006.13.b_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 322f38d25a86c70b91250334aa623d87403eaf9f2b3a4544e69a80de17ba733f
+license: null

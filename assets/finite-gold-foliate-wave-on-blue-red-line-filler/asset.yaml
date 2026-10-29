@@ -1,0 +1,47 @@
+# descriptive: find it and understand it
+id: finite-gold-foliate-wave-on-blue-red-line-filler
+title: Gold leaf wave on blue and red line filler
+description: A short horizontal line filler. A gold stem waves along a narrow bar whose left half is blue and right half red-brown, throwing gold leaves above and below, with a small gold curl hanging under the blue half at the left end. The ends are finite and slightly ragged; the painted bar is opaque and the background is transparent.
+type: divider
+categories:
+  - floral
+  - scrollwork
+subjects:
+  - leaf
+  - vine
+  - rule
+colors:
+  - blue
+  - red
+  - gold
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+usage_notes:
+  - A text-line filler, use it to close a short line or as a small divider at native width; it does not repeat.
+display_width:
+  - 300
+  - 633
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Only 128 px tall, so it softens when enlarged; the painted ends are ragged.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Book of Hours: Ape Fishing (verso)"
+  object_identifier: 2006.13.b
+  date: c. 1500–1510
+  record_url: https://clevelandart.org/art/2006.13.b
+  image_url: https://openaccess-cdn.clevelandart.org/2006.13.b/2006.13.b_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 322f38d25a86c70b91250334aa623d87403eaf9f2b3a4544e69a80de17ba733f
+license: null

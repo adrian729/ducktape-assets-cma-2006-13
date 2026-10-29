@@ -1,0 +1,50 @@
+# descriptive: find it and understand it
+id: gold-columned-pond-frame
+title: Gold columned frame of the pond miniature
+description: The architectural frame of the pond miniature with its interior removed. A wide horizontal rectangle bounded by two gold columns with spiral-scroll capitals and bases, a thin gold bar with a red-brown rule along the top and a slightly deeper gold plinth bar along the bottom. The gold is worn and shows green and tan ground in places. Only the paint is opaque; the interior and the surround are transparent.
+type: frame
+categories:
+  - geometric
+subjects:
+  - frame
+  - column
+  - capital
+  - architecture
+colors:
+  - gold
+  - tan
+  - brown
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+related:
+  - asset: cma-2006-13/ape-fishing-pond-scene
+    role: variant
+usage_notes:
+  - Fixed picture frame, scaled as a whole with content placed in its transparent interior; the top and bottom bars are thin and the two columns differ, so it is not a border-image.
+display_width:
+  - 600
+  - 1600
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Not quite rectangular as painted, the bars slope and the columns lean, and the gold is worn through to the ground along the bars.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf from a Book of Hours: Ape Fishing (verso)"
+  object_identifier: 2006.13.b
+  date: c. 1500–1510
+  record_url: https://clevelandart.org/art/2006.13.b
+  image_url: https://openaccess-cdn.clevelandart.org/2006.13.b/2006.13.b_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 322f38d25a86c70b91250334aa623d87403eaf9f2b3a4544e69a80de17ba733f
+license: null
