@@ -3,7 +3,7 @@
 
 An ape fishing, a hairy hunter, birds and the gold-columned pond frame of a Book of Hours leaf painted in Paris or Rouen about 1500–1510, in the Cleveland Museum of Art.
 
-Part of [Ducktape Assets](https://github.com/adrian729/ducktape-assets). Set id `cma-2006-13`, historical, 6 assets.
+Part of [Ducktape Assets](https://github.com/adrian729/ducktape-assets). Set id `cma-2006-13`, historical, 6 assets, version 1.0.0.
 
 ## Licence and attribution
 
@@ -13,10 +13,10 @@ Author: adrian729. Maintainer: https://github.com/adrian729/ducktape-assets/issu
 
 ## Use one asset
 
-No version is published yet. Once it is, pin the exact version (never `@latest`); the URL scheme is:
+Pin the exact version (never `@latest`). For `cma-2006-13/ape-fishing-pond-scene`:
 
-```
-https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-cma-2006-13@<version>/webp/<asset-id>-<width>.webp
+```html
+<img src="https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-cma-2006-13@1.0.0/webp/ape-fishing-pond-scene-512.webp" alt="" loading="lazy">
 ```
 
 Package `@ranx729/ducktape-assets-cma-2006-13`; every file, width and format is listed in its `manifest.json`. Masters live in git under `assets/<id>/` and in `@ranx729/ducktape-assets-cma-2006-13-masters`; never put a master on a page.
